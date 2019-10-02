@@ -77,7 +77,7 @@ function initializeDiscourseCalendar(api) {
       nextDayThreshold: "23:59:59",
       displayEventEnd: true,
       height: 650,
-      firstDay: 1,
+      firstDay: 0,
       views: {
         listNextYear: {
           type: "list",
